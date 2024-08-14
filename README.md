@@ -16,10 +16,10 @@
 > O objetivo desse projeto é a criação de uma aplicação de task list, usando as tecnologias abordadas. A aplicação não vai consumir uma API, irá armazenar as informações em localStorage.<br><br>O sistema deve ser capaz de inserir uma listar, criar, atualizar e deletar uma tarefa. Para criar ou atualizar uma nova tarefa o usuário deve informar um nome e descrição.<br><br>A aplicação deve rodar na porta 7654.<br><br>Ps.: Vocês poderão dividir as tarefas entre vocês, da forma que preferirem. Criem um repositório no github e adicionem a descrição. (Deixem e repositório público)<br><br>Configurações: TailwindCSS, Shadcn-UI, ESLint, Prettier<br><br>Components: Task, um componente para representar na listagem uma tarefa criada pelo usuário; TaskAdd, um componente que apresenta um formulário em um "dialog component" com um formulário para cadastrar uma nova tarefa.
 
 ## Página principal sem tasks
-![Página principal sem tasks](public\1.png)
+![Página principal sem tasks](./public/1.png)
 ## Componente TaskAdd 
-![Componente TaskAdd](public\2.png)
+![Componente TaskAdd](./public/2.png)
 ## Editar Task
-![Editar Task](public\3.png)
+![Editar Task](./public/3.png)
 ## Página principal com tasks
-![Página principal com tasks](public\4.png)
+![Página principal com tasks](./public/4.png)

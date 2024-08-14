@@ -23,3 +23,5 @@
 ![Editar Task](./public/3.png)
 ## Página principal com tasks
 ![Página principal com tasks](./public/4.png)
+## Encerrar task
+![Encerrar task](./public/5.png)

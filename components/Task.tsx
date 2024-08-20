@@ -68,7 +68,6 @@ export function Task({ id, title, description, onContinue, onSaveEdit }: TaskPro
       </CardHeader>
       <CardContent>
         <CardDescription>
-          <p>Task {id}</p>
         </CardDescription>
           <div className="grid w-full items-center gap-4">
             <div className="flex flex-col space-y-1.5">

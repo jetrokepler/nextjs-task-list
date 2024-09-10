@@ -12,7 +12,7 @@ interface Task {
   description: string;
 }
 
-export function App() {
+export default function Page() {
   const [tasks, setTasks] = useLocalStorage<Task[]>('tasks', []);
 
   // Função para adicionar um novo Task
@@ -62,5 +62,3 @@ export function App() {
     </div>
   );
 }
-
-export default App;
